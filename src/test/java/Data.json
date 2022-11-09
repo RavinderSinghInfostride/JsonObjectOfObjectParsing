@@ -1,0 +1,15 @@
+{
+  "email": "ravinder.singh@infostride.com",
+  "firstName": "Ravinder",
+  "lastName": "Singh",
+  "address":
+  {
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "information":
+    {
+      "city": "Lucknow",
+      "pin": 226005
+    }
+  }
+}
